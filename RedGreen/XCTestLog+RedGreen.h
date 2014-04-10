@@ -3,7 +3,7 @@
 
 #import <XCTest/XCTest.h>
 
-#define SHOW_SECONDS 0
+#define SHOW_SECONDS 1
 #define PRINT_START_FINISH_NOISE 0
 
 @interface XCTestLog (RedGreen)

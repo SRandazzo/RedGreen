@@ -10,6 +10,10 @@ Add the following to your Podfile:
 
     pod 'RedGreen', :git => 'https://github.com/neilco/RedGreen.git'
 
+If you are using XCTest:
+
+    pod 'RedGreen/XCTest', :git => 'https://github.com/neilco/RedGreen.git'
+
 And then, from Terminal, run this:
 
     pod install
